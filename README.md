@@ -205,6 +205,9 @@ Sound can be one of these: `Basso`, `Blow`, `Bottle`, `Frog`, `Funk`, `Glass`,
 
 If `sound` is simply `true`, `Bottle` is used.
 
+If you want to display multiple **notifications stacked** you can head over to `Systems Preferences > Notifications`, 
+choose `terminal-notifier` and set the style to **alerts** instead of banners.
+
 ---
 
 **See Also:**
